@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Authors on One Tender Blog</title>
-    <link>https://hugoblogapp.com/authors/</link>
+    <link>https://onetenderblog-kaushalya-rathnayakes-projects.vercel.app/authors/</link>
     <description>Recent content in Authors on One Tender Blog</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 22 Nov 2023 16:55:24 +0100</lastBuildDate>
-    <atom:link href="https://hugoblogapp.com/authors/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://onetenderblog-kaushalya-rathnayakes-projects.vercel.app/authors/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Jane Doe</title>
-      <link>https://hugoblogapp.com/authors/jane-doe/</link>
+      <link>https://onetenderblog-kaushalya-rathnayakes-projects.vercel.app/authors/jane-doe/</link>
       <pubDate>Wed, 22 Nov 2023 16:55:24 +0100</pubDate>
-      <guid>https://hugoblogapp.com/authors/jane-doe/</guid>
+      <guid>https://onetenderblog-kaushalya-rathnayakes-projects.vercel.app/authors/jane-doe/</guid>
       <description></description>
     </item>
     <item>
       <title>Samin Chandeep</title>
-      <link>https://hugoblogapp.com/authors/samin-chandeep/</link>
+      <link>https://onetenderblog-kaushalya-rathnayakes-projects.vercel.app/authors/samin-chandeep/</link>
       <pubDate>Wed, 22 Nov 2023 16:55:24 +0100</pubDate>
-      <guid>https://hugoblogapp.com/authors/samin-chandeep/</guid>
+      <guid>https://onetenderblog-kaushalya-rathnayakes-projects.vercel.app/authors/samin-chandeep/</guid>
       <description></description>
     </item>
   </channel>

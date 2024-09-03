@@ -2,59 +2,59 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on One Tender Blog</title>
-    <link>https://hugoblogapp.com/categories/</link>
+    <link>https://onetenderblog-kaushalya-rathnayakes-projects.vercel.app/categories/</link>
     <description>Recent content in Categories on One Tender Blog</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 22 Nov 2023 16:55:24 +0100</lastBuildDate>
-    <atom:link href="https://hugoblogapp.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://onetenderblog-kaushalya-rathnayakes-projects.vercel.app/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Coding</title>
-      <link>https://hugoblogapp.com/categories/coding/</link>
+      <link>https://onetenderblog-kaushalya-rathnayakes-projects.vercel.app/categories/coding/</link>
       <pubDate>Wed, 22 Nov 2023 16:55:24 +0100</pubDate>
-      <guid>https://hugoblogapp.com/categories/coding/</guid>
+      <guid>https://onetenderblog-kaushalya-rathnayakes-projects.vercel.app/categories/coding/</guid>
       <description></description>
     </item>
     <item>
       <title>Css</title>
-      <link>https://hugoblogapp.com/categories/css/</link>
+      <link>https://onetenderblog-kaushalya-rathnayakes-projects.vercel.app/categories/css/</link>
       <pubDate>Wed, 22 Nov 2023 16:55:24 +0100</pubDate>
-      <guid>https://hugoblogapp.com/categories/css/</guid>
+      <guid>https://onetenderblog-kaushalya-rathnayakes-projects.vercel.app/categories/css/</guid>
       <description></description>
     </item>
     <item>
       <title>Culture</title>
-      <link>https://hugoblogapp.com/categories/culture/</link>
+      <link>https://onetenderblog-kaushalya-rathnayakes-projects.vercel.app/categories/culture/</link>
       <pubDate>Wed, 22 Nov 2023 16:55:24 +0100</pubDate>
-      <guid>https://hugoblogapp.com/categories/culture/</guid>
+      <guid>https://onetenderblog-kaushalya-rathnayakes-projects.vercel.app/categories/culture/</guid>
       <description></description>
     </item>
     <item>
       <title>General</title>
-      <link>https://hugoblogapp.com/categories/general/</link>
+      <link>https://onetenderblog-kaushalya-rathnayakes-projects.vercel.app/categories/general/</link>
       <pubDate>Wed, 22 Nov 2023 16:55:24 +0100</pubDate>
-      <guid>https://hugoblogapp.com/categories/general/</guid>
+      <guid>https://onetenderblog-kaushalya-rathnayakes-projects.vercel.app/categories/general/</guid>
       <description></description>
     </item>
     <item>
       <title>Js</title>
-      <link>https://hugoblogapp.com/categories/js/</link>
+      <link>https://onetenderblog-kaushalya-rathnayakes-projects.vercel.app/categories/js/</link>
       <pubDate>Wed, 22 Nov 2023 16:55:24 +0100</pubDate>
-      <guid>https://hugoblogapp.com/categories/js/</guid>
+      <guid>https://onetenderblog-kaushalya-rathnayakes-projects.vercel.app/categories/js/</guid>
       <description></description>
     </item>
     <item>
       <title>Life</title>
-      <link>https://hugoblogapp.com/categories/life/</link>
+      <link>https://onetenderblog-kaushalya-rathnayakes-projects.vercel.app/categories/life/</link>
       <pubDate>Wed, 22 Nov 2023 16:55:24 +0100</pubDate>
-      <guid>https://hugoblogapp.com/categories/life/</guid>
+      <guid>https://onetenderblog-kaushalya-rathnayakes-projects.vercel.app/categories/life/</guid>
       <description></description>
     </item>
     <item>
       <title>Travel</title>
-      <link>https://hugoblogapp.com/categories/travel/</link>
+      <link>https://onetenderblog-kaushalya-rathnayakes-projects.vercel.app/categories/travel/</link>
       <pubDate>Wed, 22 Nov 2023 16:55:24 +0100</pubDate>
-      <guid>https://hugoblogapp.com/categories/travel/</guid>
+      <guid>https://onetenderblog-kaushalya-rathnayakes-projects.vercel.app/categories/travel/</guid>
       <description></description>
     </item>
   </channel>

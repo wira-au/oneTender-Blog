@@ -2,55 +2,57 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://hugoblogapp.com/authors/</loc>
+    <loc>https://onetenderblog-kaushalya-rathnayakes-projects.vercel.app/authors/</loc>
     <lastmod>2023-11-22T16:55:24+01:00</lastmod>
   </url><url>
-    <loc>https://hugoblogapp.com/categories/</loc>
+    <loc>https://onetenderblog-kaushalya-rathnayakes-projects.vercel.app/categories/</loc>
     <lastmod>2023-11-22T16:55:24+01:00</lastmod>
   </url><url>
-    <loc>https://hugoblogapp.com/categories/coding/</loc>
+    <loc>https://onetenderblog-kaushalya-rathnayakes-projects.vercel.app/categories/coding/</loc>
     <lastmod>2023-11-22T16:55:24+01:00</lastmod>
   </url><url>
-    <loc>https://hugoblogapp.com/categories/css/</loc>
+    <loc>https://onetenderblog-kaushalya-rathnayakes-projects.vercel.app/categories/css/</loc>
     <lastmod>2023-11-22T16:55:24+01:00</lastmod>
   </url><url>
-    <loc>https://hugoblogapp.com/categories/culture/</loc>
+    <loc>https://onetenderblog-kaushalya-rathnayakes-projects.vercel.app/categories/culture/</loc>
     <lastmod>2023-11-22T16:55:24+01:00</lastmod>
   </url><url>
-    <loc>https://hugoblogapp.com/my-first-post/</loc>
+    <loc>https://onetenderblog-kaushalya-rathnayakes-projects.vercel.app/my-first-post/</loc>
     <lastmod>2023-11-22T16:55:24+01:00</lastmod>
   </url><url>
-    <loc>https://hugoblogapp.com/categories/general/</loc>
+    <loc>https://onetenderblog-kaushalya-rathnayakes-projects.vercel.app/categories/general/</loc>
     <lastmod>2023-11-22T16:55:24+01:00</lastmod>
   </url><url>
-    <loc>https://hugoblogapp.com/authors/jane-doe/</loc>
+    <loc>https://onetenderblog-kaushalya-rathnayakes-projects.vercel.app/authors/jane-doe/</loc>
     <lastmod>2023-11-22T16:55:24+01:00</lastmod>
   </url><url>
-    <loc>https://hugoblogapp.com/categories/js/</loc>
+    <loc>https://onetenderblog-kaushalya-rathnayakes-projects.vercel.app/categories/js/</loc>
     <lastmod>2023-11-22T16:55:24+01:00</lastmod>
   </url><url>
-    <loc>https://hugoblogapp.com/categories/life/</loc>
+    <loc>https://onetenderblog-kaushalya-rathnayakes-projects.vercel.app/categories/life/</loc>
     <lastmod>2023-11-22T16:55:24+01:00</lastmod>
   </url><url>
-    <loc>https://hugoblogapp.com/my-fifth-post/</loc>
+    <loc>https://onetenderblog-kaushalya-rathnayakes-projects.vercel.app/my-fifth-post/</loc>
     <lastmod>2023-11-22T16:55:24+01:00</lastmod>
   </url><url>
-    <loc>https://hugoblogapp.com/</loc>
+    <loc>https://onetenderblog-kaushalya-rathnayakes-projects.vercel.app/</loc>
     <lastmod>2023-11-22T16:55:24+01:00</lastmod>
   </url><url>
-    <loc>https://hugoblogapp.com/authors/samin-chandeep/</loc>
+    <loc>https://onetenderblog-kaushalya-rathnayakes-projects.vercel.app/authors/samin-chandeep/</loc>
     <lastmod>2023-11-22T16:55:24+01:00</lastmod>
   </url><url>
-    <loc>https://hugoblogapp.com/my-fourth-post/</loc>
+    <loc>https://onetenderblog-kaushalya-rathnayakes-projects.vercel.app/my-fourth-post/</loc>
     <lastmod>2023-11-22T16:55:24+01:00</lastmod>
   </url><url>
-    <loc>https://hugoblogapp.com/my-second-post/</loc>
+    <loc>https://onetenderblog-kaushalya-rathnayakes-projects.vercel.app/my-second-post/</loc>
     <lastmod>2023-11-22T16:55:24+01:00</lastmod>
   </url><url>
-    <loc>https://hugoblogapp.com/my-third-post/</loc>
+    <loc>https://onetenderblog-kaushalya-rathnayakes-projects.vercel.app/my-third-post/</loc>
     <lastmod>2023-11-22T16:55:24+01:00</lastmod>
   </url><url>
-    <loc>https://hugoblogapp.com/categories/travel/</loc>
+    <loc>https://onetenderblog-kaushalya-rathnayakes-projects.vercel.app/categories/travel/</loc>
     <lastmod>2023-11-22T16:55:24+01:00</lastmod>
+  </url><url>
+    <loc>https://onetenderblog-kaushalya-rathnayakes-projects.vercel.app/post_1/</loc>
   </url>
 </urlset>
