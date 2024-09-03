@@ -1,13 +1,13 @@
 +++
 title = 'The Benefits of Using OneTender for Tender Opportunities'
-date = 2023-11-22T16:55:24+01:00
+date = 2024-07-22T16:55:24+01:00
 draft = false
 description = "Discover the advantages of using OneTender for finding and managing tender opportunities. Learn how this platform can enhance your business's tendering process."
-image = "/images/2s.webp"
-imageBig = "/images/2b.webp"
-categories = ["general", "css", "js"]
-authors = ["Jane Doe"]
-avatar = "/images/avatar.webp"
+image = "https://t4.ftcdn.net/jpg/00/62/39/43/360_F_62394379_KaReZCm9fKbKCPIb1V4moYDCCHnnxvg7.jpg"
+imageBig = "https://t4.ftcdn.net/jpg/00/62/39/43/360_F_62394379_KaReZCm9fKbKCPIb1V4moYDCCHnnxvg7.jpg"
+categories = ["OneTender" ,"Benefits" ,"Tender Opportunities"]
+authors = ["Samin Chandeepa"]
+avatar = "https://img-b.udemycdn.com/user/200_H/176649856_cbbc.jpg"
 +++
 
 ## The Benefits of Using OneTender for Tender Opportunities

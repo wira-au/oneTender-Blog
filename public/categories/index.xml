@@ -6,55 +6,83 @@
     <description>Recent content in Categories on One Tender Blog</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 22 Nov 2023 16:55:24 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 28 Aug 2024 16:55:24 +0100</lastBuildDate>
     <atom:link href="https://onetenderblog-kaushalya-rathnayakes-projects.vercel.app/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Coding</title>
-      <link>https://onetenderblog-kaushalya-rathnayakes-projects.vercel.app/categories/coding/</link>
-      <pubDate>Wed, 22 Nov 2023 16:55:24 +0100</pubDate>
-      <guid>https://onetenderblog-kaushalya-rathnayakes-projects.vercel.app/categories/coding/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Css</title>
-      <link>https://onetenderblog-kaushalya-rathnayakes-projects.vercel.app/categories/css/</link>
-      <pubDate>Wed, 22 Nov 2023 16:55:24 +0100</pubDate>
-      <guid>https://onetenderblog-kaushalya-rathnayakes-projects.vercel.app/categories/css/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Culture</title>
-      <link>https://onetenderblog-kaushalya-rathnayakes-projects.vercel.app/categories/culture/</link>
-      <pubDate>Wed, 22 Nov 2023 16:55:24 +0100</pubDate>
-      <guid>https://onetenderblog-kaushalya-rathnayakes-projects.vercel.app/categories/culture/</guid>
+      <title>AI</title>
+      <link>https://onetenderblog-kaushalya-rathnayakes-projects.vercel.app/categories/ai/</link>
+      <pubDate>Wed, 28 Aug 2024 16:55:24 +0100</pubDate>
+      <guid>https://onetenderblog-kaushalya-rathnayakes-projects.vercel.app/categories/ai/</guid>
       <description></description>
     </item>
     <item>
       <title>General</title>
       <link>https://onetenderblog-kaushalya-rathnayakes-projects.vercel.app/categories/general/</link>
-      <pubDate>Wed, 22 Nov 2023 16:55:24 +0100</pubDate>
+      <pubDate>Wed, 28 Aug 2024 16:55:24 +0100</pubDate>
       <guid>https://onetenderblog-kaushalya-rathnayakes-projects.vercel.app/categories/general/</guid>
       <description></description>
     </item>
     <item>
-      <title>Js</title>
-      <link>https://onetenderblog-kaushalya-rathnayakes-projects.vercel.app/categories/js/</link>
-      <pubDate>Wed, 22 Nov 2023 16:55:24 +0100</pubDate>
-      <guid>https://onetenderblog-kaushalya-rathnayakes-projects.vercel.app/categories/js/</guid>
+      <title>Small Business</title>
+      <link>https://onetenderblog-kaushalya-rathnayakes-projects.vercel.app/categories/small-business/</link>
+      <pubDate>Wed, 28 Aug 2024 16:55:24 +0100</pubDate>
+      <guid>https://onetenderblog-kaushalya-rathnayakes-projects.vercel.app/categories/small-business/</guid>
       <description></description>
     </item>
     <item>
-      <title>Life</title>
-      <link>https://onetenderblog-kaushalya-rathnayakes-projects.vercel.app/categories/life/</link>
-      <pubDate>Wed, 22 Nov 2023 16:55:24 +0100</pubDate>
-      <guid>https://onetenderblog-kaushalya-rathnayakes-projects.vercel.app/categories/life/</guid>
+      <title>Culture</title>
+      <link>https://onetenderblog-kaushalya-rathnayakes-projects.vercel.app/categories/culture/</link>
+      <pubDate>Thu, 22 Aug 2024 16:55:24 +0100</pubDate>
+      <guid>https://onetenderblog-kaushalya-rathnayakes-projects.vercel.app/categories/culture/</guid>
       <description></description>
     </item>
     <item>
       <title>Travel</title>
       <link>https://onetenderblog-kaushalya-rathnayakes-projects.vercel.app/categories/travel/</link>
-      <pubDate>Wed, 22 Nov 2023 16:55:24 +0100</pubDate>
+      <pubDate>Thu, 22 Aug 2024 16:55:24 +0100</pubDate>
       <guid>https://onetenderblog-kaushalya-rathnayakes-projects.vercel.app/categories/travel/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>ML</title>
+      <link>https://onetenderblog-kaushalya-rathnayakes-projects.vercel.app/categories/ml/</link>
+      <pubDate>Wed, 21 Aug 2024 10:00:00 +0100</pubDate>
+      <guid>https://onetenderblog-kaushalya-rathnayakes-projects.vercel.app/categories/ml/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Benefits</title>
+      <link>https://onetenderblog-kaushalya-rathnayakes-projects.vercel.app/categories/benefits/</link>
+      <pubDate>Mon, 22 Jul 2024 16:55:24 +0100</pubDate>
+      <guid>https://onetenderblog-kaushalya-rathnayakes-projects.vercel.app/categories/benefits/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>OneTender</title>
+      <link>https://onetenderblog-kaushalya-rathnayakes-projects.vercel.app/categories/onetender/</link>
+      <pubDate>Mon, 22 Jul 2024 16:55:24 +0100</pubDate>
+      <guid>https://onetenderblog-kaushalya-rathnayakes-projects.vercel.app/categories/onetender/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tender Opportunities</title>
+      <link>https://onetenderblog-kaushalya-rathnayakes-projects.vercel.app/categories/tender-opportunities/</link>
+      <pubDate>Mon, 22 Jul 2024 16:55:24 +0100</pubDate>
+      <guid>https://onetenderblog-kaushalya-rathnayakes-projects.vercel.app/categories/tender-opportunities/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Australia</title>
+      <link>https://onetenderblog-kaushalya-rathnayakes-projects.vercel.app/categories/australia/</link>
+      <pubDate>Sat, 03 Feb 2024 10:00:00 +0100</pubDate>
+      <guid>https://onetenderblog-kaushalya-rathnayakes-projects.vercel.app/categories/australia/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tenders</title>
+      <link>https://onetenderblog-kaushalya-rathnayakes-projects.vercel.app/categories/tenders/</link>
+      <pubDate>Sat, 03 Feb 2024 10:00:00 +0100</pubDate>
+      <guid>https://onetenderblog-kaushalya-rathnayakes-projects.vercel.app/categories/tenders/</guid>
       <description></description>
     </item>
   </channel>

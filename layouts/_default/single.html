@@ -22,11 +22,29 @@
       </div>
       <time>{{ dateFormat .Site.Params.dateFormat .Date }}</time>
     </div>
-    <!-- <img src="{{ .Params.imageBig }}" alt="{{.Title}}" class="singleHeadImg" /> -->
+    <img src="{{ .Params.imageBig }}" alt="{{.Title}}" class="singleHeadImg" />
   </div>
   <div class="singleBottom">
     <div class="singleContent">{{ .Content }}</div>
-    <!-- <div class="singleRightBar">{{ partial "rightBar" .}}</div> -->
+    <div class="singleRightBar">{{ partial "rightBar" .}}</div>
+  </div>
+  <div
+    style="
+      padding: 10px;
+      background-color: #f0f0f0;
+      text-align: center;
+      border-radius: 100px;
+      box-shadow: #9b9b9b 0px 0px 5px;
+      margin-top: 1rem;
+    "
+  >
+    <a
+      href="https://www.onetender.com.au/"
+      target="_blank"
+      style="color: #000000; text-decoration: none; font-weight: bold"
+    >
+      🚀 Explore One Tender
+    </a>
   </div>
 </div>
 {{ end }}

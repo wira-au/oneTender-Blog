@@ -1,13 +1,13 @@
 +++
 title = 'Exploring OneTender: Your Ultimate Source for Tender Opportunities'
-date = 2023-11-22T16:55:24+01:00
+date = 2024-08-22T16:55:24+01:00
 draft = false
 description = "Discover how OneTender streamlines the tendering process and helps businesses find and manage opportunities efficiently."
-image = "/images/1s.webp"
-imageBig = "/images/1b.webp"
+image = "https://rowdymclean.com/wp-content/uploads/2021/12/getty_91697575_297616.jpg"
+imageBig = "https://rowdymclean.com/wp-content/uploads/2021/12/getty_91697575_297616.jpg"
 categories = ["general", "travel", "culture"]
 authors = ["Samin Chandeep"]
-avatar = "/images/avatar.webp"
+avatar = "https://media.licdn.com/dms/image/v2/D5603AQHPJutdS2ghSw/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1714711380907?e=2147483647&v=beta&t=XY3uCO7eFCwX7j0OX0LQOjw75KsHQd7AIyrcALdBb4U"
 +++
 
 ## Exploring OneTender: Your Ultimate Source for Tender Opportunities
