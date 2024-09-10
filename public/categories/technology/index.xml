@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Technology on One Tender Blog</title>
-    <link>http://localhost:1313/categories/technology/</link>
+    <link>https://blog.onetender.com.au/categories/technology/</link>
     <description>Recent content in Technology on One Tender Blog</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 08 Sep 2024 12:00:00 +0100</lastBuildDate>
-    <atom:link href="http://localhost:1313/categories/technology/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://blog.onetender.com.au/categories/technology/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The Importance and Advantages of Using a Platform Like OneTender</title>
-      <link>http://localhost:1313/the-importance-and-advantages-of-using-a-platform-like-onetender/</link>
+      <link>https://blog.onetender.com.au/the-importance-and-advantages-of-using-a-platform-like-onetender/</link>
       <pubDate>Sun, 08 Sep 2024 12:00:00 +0100</pubDate>
-      <guid>http://localhost:1313/the-importance-and-advantages-of-using-a-platform-like-onetender/</guid>
+      <guid>https://blog.onetender.com.au/the-importance-and-advantages-of-using-a-platform-like-onetender/</guid>
       <description>The Importance and Advantages of Using a Platform Like OneTender In the competitive world of business, finding and securing the right tenders can make all the difference in achieving growth and success. Platforms like OneTender provide an invaluable service by simplifying and enhancing the tendering process. But what makes OneTender so important, and what advantages does it offer to businesses? Let&amp;rsquo;s explore.&#xA;Why a Platform Like OneTender is Essential Centralized Access to Opportunities: OneTender aggregates tender listings from a wide range of sources, including government agencies, private companies, and local councils, making it easy for businesses to access opportunities in one place.</description>
     </item>
     <item>
       <title>How AI and Machine Learning are Transforming the Tendering Process</title>
-      <link>http://localhost:1313/how-ai-and-machine-learning-are-transforming-the-tendering-process/</link>
+      <link>https://blog.onetender.com.au/how-ai-and-machine-learning-are-transforming-the-tendering-process/</link>
       <pubDate>Fri, 06 Sep 2024 14:00:00 +0100</pubDate>
-      <guid>http://localhost:1313/how-ai-and-machine-learning-are-transforming-the-tendering-process/</guid>
+      <guid>https://blog.onetender.com.au/how-ai-and-machine-learning-are-transforming-the-tendering-process/</guid>
       <description>How AI and Machine Learning are Transforming the Tendering Process&#xA;OneTender&#xA;The tendering process has always been a crucial component for businesses looking to secure projects and contracts. However, traditional tendering methods can often be time-consuming, complex, and prone to human error. Fortunately, advancements in technology, particularly in Artificial Intelligence (AI) and Machine Learning (ML), are transforming the tendering landscape, making it more efficient and accessible for businesses of all sizes.</description>
     </item>
   </channel>

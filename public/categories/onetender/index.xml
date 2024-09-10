@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>OneTender on One Tender Blog</title>
-    <link>http://localhost:1313/categories/onetender/</link>
+    <link>https://blog.onetender.com.au/categories/onetender/</link>
     <description>Recent content in OneTender on One Tender Blog</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 22 Jul 2024 16:55:24 +0100</lastBuildDate>
-    <atom:link href="http://localhost:1313/categories/onetender/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://blog.onetender.com.au/categories/onetender/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The Benefits of Using OneTender for Tender Opportunities</title>
-      <link>http://localhost:1313/the-benefits-of-using-onetender-for-tender-opportunities/</link>
+      <link>https://blog.onetender.com.au/the-benefits-of-using-onetender-for-tender-opportunities/</link>
       <pubDate>Mon, 22 Jul 2024 16:55:24 +0100</pubDate>
-      <guid>http://localhost:1313/the-benefits-of-using-onetender-for-tender-opportunities/</guid>
+      <guid>https://blog.onetender.com.au/the-benefits-of-using-onetender-for-tender-opportunities/</guid>
       <description>The Benefits of Using OneTender for Tender Opportunities Finding and managing tender opportunities can be a challenging task for businesses. OneTender offers a streamlined solution to help you navigate the complex world of tenders with ease. In this post, we’ll explore the key benefits of using OneTender and how it can enhance your tendering strategy.&#xA;Why Choose OneTender? OneTender is a comprehensive platform designed to connect businesses with a wide range of tender opportunities.</description>
     </item>
   </channel>

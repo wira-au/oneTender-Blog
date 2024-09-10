@@ -2,115 +2,115 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on One Tender Blog</title>
-    <link>http://localhost:1313/categories/</link>
+    <link>https://blog.onetender.com.au/categories/</link>
     <description>Recent content in Categories on One Tender Blog</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 08 Sep 2024 12:00:00 +0100</lastBuildDate>
-    <atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://blog.onetender.com.au/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Business</title>
-      <link>http://localhost:1313/categories/business/</link>
+      <link>https://blog.onetender.com.au/categories/business/</link>
       <pubDate>Sun, 08 Sep 2024 12:00:00 +0100</pubDate>
-      <guid>http://localhost:1313/categories/business/</guid>
+      <guid>https://blog.onetender.com.au/categories/business/</guid>
       <description></description>
     </item>
     <item>
       <title>General</title>
-      <link>http://localhost:1313/categories/general/</link>
+      <link>https://blog.onetender.com.au/categories/general/</link>
       <pubDate>Sun, 08 Sep 2024 12:00:00 +0100</pubDate>
-      <guid>http://localhost:1313/categories/general/</guid>
+      <guid>https://blog.onetender.com.au/categories/general/</guid>
       <description></description>
     </item>
     <item>
       <title>Technology</title>
-      <link>http://localhost:1313/categories/technology/</link>
+      <link>https://blog.onetender.com.au/categories/technology/</link>
       <pubDate>Sun, 08 Sep 2024 12:00:00 +0100</pubDate>
-      <guid>http://localhost:1313/categories/technology/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>AI</title>
-      <link>http://localhost:1313/categories/ai/</link>
-      <pubDate>Fri, 06 Sep 2024 14:00:00 +0100</pubDate>
-      <guid>http://localhost:1313/categories/ai/</guid>
+      <guid>https://blog.onetender.com.au/categories/technology/</guid>
       <description></description>
     </item>
     <item>
       <title>Strategy</title>
-      <link>http://localhost:1313/categories/strategy/</link>
-      <pubDate>Thu, 05 Sep 2024 15:00:00 +0100</pubDate>
-      <guid>http://localhost:1313/categories/strategy/</guid>
+      <link>https://blog.onetender.com.au/categories/strategy/</link>
+      <pubDate>Fri, 06 Sep 2024 16:00:00 +0100</pubDate>
+      <guid>https://blog.onetender.com.au/categories/strategy/</guid>
       <description></description>
     </item>
     <item>
       <title>Tendering</title>
-      <link>http://localhost:1313/categories/tendering/</link>
-      <pubDate>Thu, 05 Sep 2024 15:00:00 +0100</pubDate>
-      <guid>http://localhost:1313/categories/tendering/</guid>
+      <link>https://blog.onetender.com.au/categories/tendering/</link>
+      <pubDate>Fri, 06 Sep 2024 16:00:00 +0100</pubDate>
+      <guid>https://blog.onetender.com.au/categories/tendering/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>AI</title>
+      <link>https://blog.onetender.com.au/categories/ai/</link>
+      <pubDate>Fri, 06 Sep 2024 14:00:00 +0100</pubDate>
+      <guid>https://blog.onetender.com.au/categories/ai/</guid>
       <description></description>
     </item>
     <item>
       <title>Small Business</title>
-      <link>http://localhost:1313/categories/small-business/</link>
+      <link>https://blog.onetender.com.au/categories/small-business/</link>
       <pubDate>Wed, 28 Aug 2024 16:55:24 +0100</pubDate>
-      <guid>http://localhost:1313/categories/small-business/</guid>
+      <guid>https://blog.onetender.com.au/categories/small-business/</guid>
       <description></description>
     </item>
     <item>
       <title>Culture</title>
-      <link>http://localhost:1313/categories/culture/</link>
+      <link>https://blog.onetender.com.au/categories/culture/</link>
       <pubDate>Thu, 22 Aug 2024 16:55:24 +0100</pubDate>
-      <guid>http://localhost:1313/categories/culture/</guid>
+      <guid>https://blog.onetender.com.au/categories/culture/</guid>
       <description></description>
     </item>
     <item>
       <title>Travel</title>
-      <link>http://localhost:1313/categories/travel/</link>
+      <link>https://blog.onetender.com.au/categories/travel/</link>
       <pubDate>Thu, 22 Aug 2024 16:55:24 +0100</pubDate>
-      <guid>http://localhost:1313/categories/travel/</guid>
+      <guid>https://blog.onetender.com.au/categories/travel/</guid>
       <description></description>
     </item>
     <item>
       <title>ML</title>
-      <link>http://localhost:1313/categories/ml/</link>
+      <link>https://blog.onetender.com.au/categories/ml/</link>
       <pubDate>Wed, 21 Aug 2024 10:00:00 +0100</pubDate>
-      <guid>http://localhost:1313/categories/ml/</guid>
+      <guid>https://blog.onetender.com.au/categories/ml/</guid>
       <description></description>
     </item>
     <item>
       <title>Benefits</title>
-      <link>http://localhost:1313/categories/benefits/</link>
+      <link>https://blog.onetender.com.au/categories/benefits/</link>
       <pubDate>Mon, 22 Jul 2024 16:55:24 +0100</pubDate>
-      <guid>http://localhost:1313/categories/benefits/</guid>
+      <guid>https://blog.onetender.com.au/categories/benefits/</guid>
       <description></description>
     </item>
     <item>
       <title>OneTender</title>
-      <link>http://localhost:1313/categories/onetender/</link>
+      <link>https://blog.onetender.com.au/categories/onetender/</link>
       <pubDate>Mon, 22 Jul 2024 16:55:24 +0100</pubDate>
-      <guid>http://localhost:1313/categories/onetender/</guid>
+      <guid>https://blog.onetender.com.au/categories/onetender/</guid>
       <description></description>
     </item>
     <item>
       <title>Tender Opportunities</title>
-      <link>http://localhost:1313/categories/tender-opportunities/</link>
+      <link>https://blog.onetender.com.au/categories/tender-opportunities/</link>
       <pubDate>Mon, 22 Jul 2024 16:55:24 +0100</pubDate>
-      <guid>http://localhost:1313/categories/tender-opportunities/</guid>
+      <guid>https://blog.onetender.com.au/categories/tender-opportunities/</guid>
       <description></description>
     </item>
     <item>
       <title>Australia</title>
-      <link>http://localhost:1313/categories/australia/</link>
+      <link>https://blog.onetender.com.au/categories/australia/</link>
       <pubDate>Sat, 03 Feb 2024 10:00:00 +0100</pubDate>
-      <guid>http://localhost:1313/categories/australia/</guid>
+      <guid>https://blog.onetender.com.au/categories/australia/</guid>
       <description></description>
     </item>
     <item>
       <title>Tenders</title>
-      <link>http://localhost:1313/categories/tenders/</link>
+      <link>https://blog.onetender.com.au/categories/tenders/</link>
       <pubDate>Sat, 03 Feb 2024 10:00:00 +0100</pubDate>
-      <guid>http://localhost:1313/categories/tenders/</guid>
+      <guid>https://blog.onetender.com.au/categories/tenders/</guid>
       <description></description>
     </item>
   </channel>

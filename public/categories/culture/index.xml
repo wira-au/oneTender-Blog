@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Culture on One Tender Blog</title>
-    <link>http://localhost:1313/categories/culture/</link>
+    <link>https://blog.onetender.com.au/categories/culture/</link>
     <description>Recent content in Culture on One Tender Blog</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 22 Aug 2024 16:55:24 +0100</lastBuildDate>
-    <atom:link href="http://localhost:1313/categories/culture/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://blog.onetender.com.au/categories/culture/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Exploring OneTender: Your Ultimate Source for Tender Opportunities</title>
-      <link>http://localhost:1313/exploring-onetender./</link>
+      <link>https://blog.onetender.com.au/exploring-onetender./</link>
       <pubDate>Thu, 22 Aug 2024 16:55:24 +0100</pubDate>
-      <guid>http://localhost:1313/exploring-onetender./</guid>
+      <guid>https://blog.onetender.com.au/exploring-onetender./</guid>
       <description>Exploring OneTender: Your Ultimate Source for Tender Opportunities In today&amp;rsquo;s fast-paced business environment, staying ahead of tender opportunities is crucial for success. OneTender has emerged as a leading platform that streamlines the tendering process for businesses of all sizes. Whether you&amp;rsquo;re a small startup or a large corporation, OneTender offers a comprehensive solution to help you find and manage tender opportunities efficiently.&#xA;What is OneTender? OneTender is an online platform designed to connect businesses with government and private sector tender opportunities.</description>
     </item>
   </channel>

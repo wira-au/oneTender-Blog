@@ -2,88 +2,91 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/authors/</loc>
+    <loc>https://blog.onetender.com.au/authors/</loc>
     <lastmod>2024-09-08T12:00:00+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/business/</loc>
+    <loc>https://blog.onetender.com.au/categories/business/</loc>
     <lastmod>2024-09-08T12:00:00+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://blog.onetender.com.au/categories/</loc>
     <lastmod>2024-09-08T12:00:00+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/general/</loc>
+    <loc>https://blog.onetender.com.au/categories/general/</loc>
     <lastmod>2024-09-08T12:00:00+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://blog.onetender.com.au/</loc>
     <lastmod>2024-09-08T12:00:00+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/authors/samin-chandeepa/</loc>
+    <loc>https://blog.onetender.com.au/authors/samin-chandeepa/</loc>
     <lastmod>2024-09-08T12:00:00+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/technology/</loc>
+    <loc>https://blog.onetender.com.au/categories/technology/</loc>
     <lastmod>2024-09-08T12:00:00+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/the-importance-and-advantages-of-using-a-platform-like-onetender/</loc>
+    <loc>https://blog.onetender.com.au/the-importance-and-advantages-of-using-a-platform-like-onetender/</loc>
     <lastmod>2024-09-08T12:00:00+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/ai/</loc>
+    <loc>https://blog.onetender.com.au/categories/strategy/</loc>
+    <lastmod>2024-09-06T16:00:00+01:00</lastmod>
+  </url><url>
+    <loc>https://blog.onetender.com.au/categories/tendering/</loc>
+    <lastmod>2024-09-06T16:00:00+01:00</lastmod>
+  </url><url>
+    <loc>https://blog.onetender.com.au/the-benefits-of-real-time-tender-notifications-for-your-business/</loc>
+    <lastmod>2024-09-06T16:00:00+01:00</lastmod>
+  </url><url>
+    <loc>https://blog.onetender.com.au/categories/ai/</loc>
     <lastmod>2024-09-06T14:00:00+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/how-ai-and-machine-learning-are-transforming-the-tendering-process/</loc>
+    <loc>https://blog.onetender.com.au/how-ai-and-machine-learning-are-transforming-the-tendering-process/</loc>
     <lastmod>2024-09-06T14:00:00+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/strategy/</loc>
+    <loc>https://blog.onetender.com.au/top-tendering-strategies-for-small-businesses-in-2024/</loc>
     <lastmod>2024-09-05T15:00:00+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/tendering/</loc>
-    <lastmod>2024-09-05T15:00:00+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/top-tendering-strategies-for-small-businesses-in-2024/</loc>
-    <lastmod>2024-09-05T15:00:00+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/how-onetender-empowers-small-businesses-in-construction-copy/</loc>
+    <loc>https://blog.onetender.com.au/how-onetender-empowers-small-businesses-in-construction-copy/</loc>
     <lastmod>2024-08-28T16:55:24+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/small-business/</loc>
+    <loc>https://blog.onetender.com.au/categories/small-business/</loc>
     <lastmod>2024-08-28T16:55:24+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/culture/</loc>
+    <loc>https://blog.onetender.com.au/categories/culture/</loc>
     <lastmod>2024-08-22T16:55:24+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/exploring-onetender./</loc>
+    <loc>https://blog.onetender.com.au/exploring-onetender./</loc>
     <lastmod>2024-08-22T16:55:24+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/authors/samin-chandeep/</loc>
+    <loc>https://blog.onetender.com.au/authors/samin-chandeep/</loc>
     <lastmod>2024-08-22T16:55:24+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/travel/</loc>
+    <loc>https://blog.onetender.com.au/categories/travel/</loc>
     <lastmod>2024-08-22T16:55:24+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/accurate-tender-price-predictions-with-onetender/</loc>
+    <loc>https://blog.onetender.com.au/accurate-tender-price-predictions-with-onetender/</loc>
     <lastmod>2024-08-21T10:00:00+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/ml/</loc>
+    <loc>https://blog.onetender.com.au/categories/ml/</loc>
     <lastmod>2024-08-21T10:00:00+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/benefits/</loc>
+    <loc>https://blog.onetender.com.au/categories/benefits/</loc>
     <lastmod>2024-07-22T16:55:24+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/onetender/</loc>
+    <loc>https://blog.onetender.com.au/categories/onetender/</loc>
     <lastmod>2024-07-22T16:55:24+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/tender-opportunities/</loc>
+    <loc>https://blog.onetender.com.au/categories/tender-opportunities/</loc>
     <lastmod>2024-07-22T16:55:24+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/the-benefits-of-using-onetender-for-tender-opportunities/</loc>
+    <loc>https://blog.onetender.com.au/the-benefits-of-using-onetender-for-tender-opportunities/</loc>
     <lastmod>2024-07-22T16:55:24+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/access-tenders-from-major-and-small-councils-across-australia-with-onetender/</loc>
+    <loc>https://blog.onetender.com.au/access-tenders-from-major-and-small-councils-across-australia-with-onetender/</loc>
     <lastmod>2024-02-03T10:00:00+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/australia/</loc>
+    <loc>https://blog.onetender.com.au/categories/australia/</loc>
     <lastmod>2024-02-03T10:00:00+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/tenders/</loc>
+    <loc>https://blog.onetender.com.au/categories/tenders/</loc>
     <lastmod>2024-02-03T10:00:00+01:00</lastmod>
   </url>
 </urlset>
