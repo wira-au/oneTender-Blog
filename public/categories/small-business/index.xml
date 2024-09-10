@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Small Business on One Tender Blog</title>
-    <link>https://onetenderblog-kaushalya-rathnayakes-projects.vercel.app/categories/small-business/</link>
+    <link>http://localhost:1313/categories/small-business/</link>
     <description>Recent content in Small Business on One Tender Blog</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 28 Aug 2024 16:55:24 +0100</lastBuildDate>
-    <atom:link href="https://onetenderblog-kaushalya-rathnayakes-projects.vercel.app/categories/small-business/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/categories/small-business/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>How OneTender Empowers Small Businesses in Construction, Landscaping, Agriculture, Automotive, and More</title>
-      <link>https://onetenderblog-kaushalya-rathnayakes-projects.vercel.app/how-onetender-empowers-small-businesses-in-construction-copy/</link>
+      <link>http://localhost:1313/how-onetender-empowers-small-businesses-in-construction-copy/</link>
       <pubDate>Wed, 28 Aug 2024 16:55:24 +0100</pubDate>
-      <guid>https://onetenderblog-kaushalya-rathnayakes-projects.vercel.app/how-onetender-empowers-small-businesses-in-construction-copy/</guid>
+      <guid>http://localhost:1313/how-onetender-empowers-small-businesses-in-construction-copy/</guid>
       <description>How OneTender Empowers Small Businesses in Construction, Landscaping, Agriculture, Automotive, and More Small businesses often face challenges when competing for tenders, especially in sectors like construction, landscaping, agriculture, automotive, and various other services. OneTender provides an innovative solution that levels the playing field by offering free access to tender opportunities across Australia, complete with powerful AI and machine learning features. Let’s explore how OneTender can help your small business thrive.</description>
     </item>
   </channel>

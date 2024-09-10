@@ -2,67 +2,88 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://onetenderblog-kaushalya-rathnayakes-projects.vercel.app/categories/ai/</loc>
+    <loc>http://localhost:1313/authors/</loc>
+    <lastmod>2024-09-08T12:00:00+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/business/</loc>
+    <lastmod>2024-09-08T12:00:00+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/</loc>
+    <lastmod>2024-09-08T12:00:00+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/general/</loc>
+    <lastmod>2024-09-08T12:00:00+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2024-09-08T12:00:00+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/authors/samin-chandeepa/</loc>
+    <lastmod>2024-09-08T12:00:00+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/technology/</loc>
+    <lastmod>2024-09-08T12:00:00+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/the-importance-and-advantages-of-using-a-platform-like-onetender/</loc>
+    <lastmod>2024-09-08T12:00:00+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/ai/</loc>
+    <lastmod>2024-09-06T14:00:00+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/how-ai-and-machine-learning-are-transforming-the-tendering-process/</loc>
+    <lastmod>2024-09-06T14:00:00+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/strategy/</loc>
+    <lastmod>2024-09-05T15:00:00+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/tendering/</loc>
+    <lastmod>2024-09-05T15:00:00+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/top-tendering-strategies-for-small-businesses-in-2024/</loc>
+    <lastmod>2024-09-05T15:00:00+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/how-onetender-empowers-small-businesses-in-construction-copy/</loc>
     <lastmod>2024-08-28T16:55:24+01:00</lastmod>
   </url><url>
-    <loc>https://onetenderblog-kaushalya-rathnayakes-projects.vercel.app/authors/</loc>
+    <loc>http://localhost:1313/categories/small-business/</loc>
     <lastmod>2024-08-28T16:55:24+01:00</lastmod>
   </url><url>
-    <loc>https://onetenderblog-kaushalya-rathnayakes-projects.vercel.app/categories/</loc>
-    <lastmod>2024-08-28T16:55:24+01:00</lastmod>
-  </url><url>
-    <loc>https://onetenderblog-kaushalya-rathnayakes-projects.vercel.app/categories/general/</loc>
-    <lastmod>2024-08-28T16:55:24+01:00</lastmod>
-  </url><url>
-    <loc>https://onetenderblog-kaushalya-rathnayakes-projects.vercel.app/how-onetender-empowers-small-businesses-in-construction-copy/</loc>
-    <lastmod>2024-08-28T16:55:24+01:00</lastmod>
-  </url><url>
-    <loc>https://onetenderblog-kaushalya-rathnayakes-projects.vercel.app/</loc>
-    <lastmod>2024-08-28T16:55:24+01:00</lastmod>
-  </url><url>
-    <loc>https://onetenderblog-kaushalya-rathnayakes-projects.vercel.app/authors/samin-chandeepa/</loc>
-    <lastmod>2024-08-28T16:55:24+01:00</lastmod>
-  </url><url>
-    <loc>https://onetenderblog-kaushalya-rathnayakes-projects.vercel.app/categories/small-business/</loc>
-    <lastmod>2024-08-28T16:55:24+01:00</lastmod>
-  </url><url>
-    <loc>https://onetenderblog-kaushalya-rathnayakes-projects.vercel.app/categories/culture/</loc>
+    <loc>http://localhost:1313/categories/culture/</loc>
     <lastmod>2024-08-22T16:55:24+01:00</lastmod>
   </url><url>
-    <loc>https://onetenderblog-kaushalya-rathnayakes-projects.vercel.app/exploring-onetender./</loc>
+    <loc>http://localhost:1313/exploring-onetender./</loc>
     <lastmod>2024-08-22T16:55:24+01:00</lastmod>
   </url><url>
-    <loc>https://onetenderblog-kaushalya-rathnayakes-projects.vercel.app/authors/samin-chandeep/</loc>
+    <loc>http://localhost:1313/authors/samin-chandeep/</loc>
     <lastmod>2024-08-22T16:55:24+01:00</lastmod>
   </url><url>
-    <loc>https://onetenderblog-kaushalya-rathnayakes-projects.vercel.app/categories/travel/</loc>
+    <loc>http://localhost:1313/categories/travel/</loc>
     <lastmod>2024-08-22T16:55:24+01:00</lastmod>
   </url><url>
-    <loc>https://onetenderblog-kaushalya-rathnayakes-projects.vercel.app/accurate-tender-price-predictions-with-onetender/</loc>
+    <loc>http://localhost:1313/accurate-tender-price-predictions-with-onetender/</loc>
     <lastmod>2024-08-21T10:00:00+01:00</lastmod>
   </url><url>
-    <loc>https://onetenderblog-kaushalya-rathnayakes-projects.vercel.app/categories/ml/</loc>
+    <loc>http://localhost:1313/categories/ml/</loc>
     <lastmod>2024-08-21T10:00:00+01:00</lastmod>
   </url><url>
-    <loc>https://onetenderblog-kaushalya-rathnayakes-projects.vercel.app/categories/benefits/</loc>
+    <loc>http://localhost:1313/categories/benefits/</loc>
     <lastmod>2024-07-22T16:55:24+01:00</lastmod>
   </url><url>
-    <loc>https://onetenderblog-kaushalya-rathnayakes-projects.vercel.app/categories/onetender/</loc>
+    <loc>http://localhost:1313/categories/onetender/</loc>
     <lastmod>2024-07-22T16:55:24+01:00</lastmod>
   </url><url>
-    <loc>https://onetenderblog-kaushalya-rathnayakes-projects.vercel.app/categories/tender-opportunities/</loc>
+    <loc>http://localhost:1313/categories/tender-opportunities/</loc>
     <lastmod>2024-07-22T16:55:24+01:00</lastmod>
   </url><url>
-    <loc>https://onetenderblog-kaushalya-rathnayakes-projects.vercel.app/the-benefits-of-using-onetender-for-tender-opportunities/</loc>
+    <loc>http://localhost:1313/the-benefits-of-using-onetender-for-tender-opportunities/</loc>
     <lastmod>2024-07-22T16:55:24+01:00</lastmod>
   </url><url>
-    <loc>https://onetenderblog-kaushalya-rathnayakes-projects.vercel.app/access-tenders-from-major-and-small-councils-across-australia-with-onetender/</loc>
+    <loc>http://localhost:1313/access-tenders-from-major-and-small-councils-across-australia-with-onetender/</loc>
     <lastmod>2024-02-03T10:00:00+01:00</lastmod>
   </url><url>
-    <loc>https://onetenderblog-kaushalya-rathnayakes-projects.vercel.app/categories/australia/</loc>
+    <loc>http://localhost:1313/categories/australia/</loc>
     <lastmod>2024-02-03T10:00:00+01:00</lastmod>
   </url><url>
-    <loc>https://onetenderblog-kaushalya-rathnayakes-projects.vercel.app/categories/tenders/</loc>
+    <loc>http://localhost:1313/categories/tenders/</loc>
     <lastmod>2024-02-03T10:00:00+01:00</lastmod>
   </url>
 </urlset>
